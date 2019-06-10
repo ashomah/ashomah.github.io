@@ -1,0 +1,1420 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "ashleyomahony.com - Mobirise",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#f99152",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#cccccc",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": []
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 90,
+    "versionPublish": "4.6.2",
+    "favicon": "@PROJECT_PATH@/assets/images/ao2-128x128.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-37753521-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "http://ashleyomahony.com",
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Ashley O'Mahony | Professional Experience",
+        "meta_descr": "Ashley O'Mahony | Data Science | Project | Operations | Product\nInt'l MBA | MSc in Big Data | MSc in Industrial Engineering\n\nHis professional experience, his educational background, his passion for photography, and his contact details.\n\nDownload his full resume I ashleyomahony.com",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f99152!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#efefef",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://ashleyomahony.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ASHLEY O'MAHONY</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-11\">EXPERIENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-12\">EDUCATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-13\">SKILLS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1f\">PHOTOGRAPHY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1p\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://drive.google.com/open?id=1dz-HZq5PjAVc2SQXt1TEFGImQEeccuc3\" target=\"_blank\">DOWNLOAD RESUME</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "© Ashley O'Mahony | <a href=\"http://ashleyomahony.com\" class=\"text-black\">ashleyomahony.com</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-size": "46px",
+              "text-align": "right"
+            }
+          },
+          "_anchor": "header2-1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": false,
+            "imageSize": "29",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/londondraw-1-2000x1521-copy-2000x1521.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#c1c1c1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#efefef",
+            "overlayOpacity": "0"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/file-1024x1024.jpg",
+              "link": "",
+              "alt": "Ashley O'Mahony",
+              "title": "Ashley O'Mahony"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "ASHLEY O'MAHONY",
+          "text": "DATA SCIENCE | PROJECT | OPERATIONS | PRODUCT<br>Int'l MBA + MSc in Big Data | IE Business School (Spain)<br>MSc in Industrial Engineering | IMT Mines Albi-Carmaux (France)<br><br>+34 676 24 24 01<br><a href=\"mailto:ashley.omahony@gmail.com\" class=\"text-black\">ashley.omahony@gmail.com</a><br>Madrid, Spain<br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://www.linkedin.com/in/ashleyomahony/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>LINKEDIN</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"http://github.com/ashomah\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\"></span>GITHUB</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://twitter.com/AshleyOMahony\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span>TWITTER</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"http://ashleyomahony.com/Ashley_OMahony.vcf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-persona mbr-iconfont mbr-iconfont-btn\"></span>VCARD</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "text-align": "center"
+            },
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "header1-a",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Bonjour, I'm Ashley !",
+          "text": "<br><span style=\"font-style: normal;\">I've always played with data.</span><br>Along with enabling teams to streamline their effort by designing and implementing efficient processes and driving transformation across multicultural business units,<br>I have generated various KPIs and insights --- using Excel.<br><span style=\"font-style: normal;\">I now have tremendously extended my skill set!<br></span><br>With innovation, technology, performance and teamwork in my DNA, I have initiated a career shift<br>to leverage on data technologies and create innovative data-led solutions with high impact.<br><br>With proven capacity to lead projects with cross-functional and international stakeholders,<br>I enriched my industrial engineering background with<br>an entrepreneur mindset, a business acumen, and a data science toolkit.<br><br>Insatiable explorer, I love to challenge myself and learn from every encounter.<br>I ambition to contribute to the community towards<br>enhanced lifestyle, social justice, and sustainable environment.<br>",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://www.linkedin.com/in/ashleyomahony\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>LINKEDIN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://github.com/ashomah\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\"></span>GITHUB</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://twitter.com/AshleyOMahony\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span>TWITTER</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://ashleyomahony.com/Ashley_OMahony.vcf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-persona mbr-iconfont mbr-iconfont-btn\"></span>VCARD</a> "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-11",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-g",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "EXPERIENCE",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "content6-j",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b style=\"font-size: 1.07rem; line-height: 1.5;\">GLOBAL COMMERCIAL ANALYST</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Feb 2016 - Dec 2017</span><br></p>",
+          "text2": "<p><b>MOTHERCARE</b> | <b>London</b> | <b>UK</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Subject-Matter Expert Sourcing&nbsp;-&nbsp;Oracle Retail Project</span><br></p><p><i>Represent the Sourcing Division in the Oracle Retail implementation project, acting as a liaison between programme design team, business and technical functions.\n</i></p><p><i>Document process design and functionalities requirements, leading in delivery of Quick Wins solutions, ensuring implementation of standardized and consistent ways of working.\n</i></p><p><i style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"http://www.mothercare.com\" target=\"_blank\">www.mothercare.com</a></i><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-n",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b style=\"font-size: 1.07rem; line-height: 1.5;\">GLOBAL ANALYST</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Sep 2013 - Jan 2016</span><br></p>",
+          "text2": "<p><b>MOTHERCARE</b> | <b>Hong Kong</b>&nbsp;| <b>China</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Business Analysis - Vendor Management</span></p><p><i style=\"font-size: 1.07rem;\">Review and report business KPI to emphasize key business drivers, financial impact of strategic initiatives and competitor information.</i><br></p><p><i style=\"font-size: 1.07rem; line-height: 1.5;\">Work with IT teams on existing systems and databases to improve efficiency and accuracy of reports. Help to define and monitor the supplier strategy for each country and each product category.</i><br></p><p><i><a href=\"http://www.mothercare.com\" target=\"_blank\">www.mothercare.com</a></i></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>TRIMS &amp; FURNITURE MANAGER</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Feb 2012 - Dec 2012</span><br></p>",
+          "text2": "<p><b>DEVANLAY LACOSTE</b> | <b>Hong Kong</b>&nbsp;| <b>China</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Team of 7 people, located in Shanghai</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Trims, Furniture and Point-Of-Sales Materials Purchasing</span></p><p><i style=\"font-size: 1.07rem; line-height: 1.5;\">Secure procurement flows and inventory of the Lacoste’s logos.</i></p><p><i style=\"font-size: 1.07rem; line-height: 1.5;\">Implement a unique labelling service provider for the region.</i></p><p><i style=\"font-size: 1.07rem; line-height: 1.5;\">Extend the suppliers panel and ensure the compliance of furniture and POS sales with Lacoste’s standards.</i></p><p><i style=\"font-size: 1.07rem; line-height: 1.5;\">Develop a Support Service for the Lacoste Asian Production Licensees.</i></p><p><a href=\"http://www.lacoste.com/\" target=\"_blank\">www.lacoste.com</a><i style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"http://www.mothercare.com\" target=\"_blank\"></a></i><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-s",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>BUSINESS ANALYST</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Feb 2011 - Jan 2012</span><br></p>",
+          "text2": "<p><b>DEVANLAY LACOSTE</b> | <b>Hong Kong</b>&nbsp;| <b>China</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Reporting - Supply Chain&nbsp;Planning -&nbsp;Project Management</span></p><p><i>Reengineer the delivery KPI and dashboards. Conduct Sales and Operations Planning (S&amp;OP) meetings.</i></p><p><i>Lead the Labels Standardization Project for Asia area, complying with legal and distribution constraints.</i></p><p><i>Deploy an ordering web interface to 40 Asian suppliers.</i></p><p><a href=\"http://www.lacoste.com/\" target=\"_blank\" style=\"font-size: 1.07rem; background-color: rgb(255, 255, 255); line-height: 1.5;\">www.lacoste.com</a><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-u",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>SUPPLY CHAIN ENGINEER</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Oct 2009 - Jan 2011</span><br></p>",
+          "text2": "<p><b>DEVANLAY LACOSTE</b> | <b>Shanghai</b>&nbsp;| <b>China</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Organisation Processes Audits - Suppliers Management</span></p><p><i>Perform selective audits and improve procedures efficiency and performance in supply chain, logistics, supplier management and quality.</i></p><p><i>Implement the supplier qualification process and design a tool evaluating the suppliers’ performance.</i></p><p><i>Regularize suppliers’ contracts, and social and environmental compliance certificates.</i></p><p><a href=\"http://www.lacoste.com/\" target=\"_blank\" style=\"font-size: 1.07rem; background-color: rgb(255, 255, 255); line-height: 1.5;\">www.lacoste.com</a><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-v",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "5",
+            "bgColor": "#fff"
+          },
+          "text1": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>PROJECT ENGINEER</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Oct 2007 - May 2009</span><br></p>",
+          "text2": "<p><b>LGM</b> | <b>Paris</b>&nbsp;| <b>France</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"http://www.lgmgroup.fr\" target=\"_blank\">www.lgmgroup.fr</a></span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">SNCF - Simulation of Logistics Flows in Maintenance Centres</span></p><p><i>Audit in 26 centres all over France.</i></p><p><i>Model and simulate new organizations scenario in ExtendSim to define an optimal solution.</i></p><p><a href=\"http://www.sncf.com\" target=\"_blank\">www.sncf.com</a><i></i></p><p>Renault Trucks Défense - Project Management Support</p><p><i>Develop and install project management tools (cost control, planning, technical issues follow-up).</i></p><p><i>Assist the project managers by monitoring the action plans and coordinating the prototype parts stock.</i></p><p><a href=\"http://www.renault-trucks-defense.eu\" target=\"_blank\">www.renault-trucks-defense.eu</a><a href=\"www.renault-trucks-defense.eu\" target=\"_blank\"></a></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-12",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-w",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "EDUCATION",
+          "meta": ""
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><span style=\"font-size: 1.07rem;\"><b>MASTER IN BUSINESS ANALYTICS AND BIG DATA</b></span></p><p><span style=\"font-size: 1.07rem;\">Oct 2018 - Jul 2019</span><br></p>",
+          "text2": "<p><b>IE SCHOOL OF HUMAN SCIENCES &amp; TECHNOLOGY</b>&nbsp;| <b>Madrid</b>&nbsp;| <b>Spain</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">#3 European Master, #10 Worldwide - <a href=\"https://www.topuniversities.com/university-rankings/business-masters-rankings/business-analytics/2018\" target=\"_blank\">QS World Ranking 2018</a></span><br></p><p><a href=\"http://www.ie.edu\" target=\"_blank\">www.ie.edu</a><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-2d"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><span style=\"font-size: 1.07rem;\"><b>INTERNATIONAL MBA</b></span></p><p><span style=\"font-size: 1.07rem;\">Jan 2018 - Jul 2019</span><br></p>",
+          "text2": "<p><b>IE BUSINESS SCHOOL</b>&nbsp;| <b>Madrid</b>&nbsp;| <b>Spain</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">#3 European Business School, #8 Worldwide - <a href=\"http://rankings.ft.com/businessschoolrankings/ie-business-school\" target=\"_blank\">FT Ranking 2017</a></span><br></p><p><a href=\"http://www.ie.edu\" target=\"_blank\">www.ie.edu</a><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-2b"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-x",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>MASTER'S DEGREE IN INDUSTRIAL ENGINEERING</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">2003 - 2007</span><br></p>",
+          "text2": "<p><b>IMT MINES ALBI-CARMAUX</b> | <b>Albi</b>&nbsp;| <b>France</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Graduate School of Engineering - French 'Grandes Ecoles'</span><br></p><p><a href=\"http://www.mines-albi.fr\" target=\"_blank\">www.mines-albi.fr</a><a href=\"http://www.lacoste.com/\" target=\"_blank\" style=\"font-size: 1.07rem; background-color: rgb(255, 255, 255); line-height: 1.5;\"></a><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-y",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>INTERNSHIP</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Feb 2007 - Jul 2007</span><br></p>",
+          "text2": "<p><b>ISA FRANCE</b> | <b>Besançon</b>&nbsp;| <b>France</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Initialization of the ERP Implementation</span></p><p><i>Audit the decision process.&nbsp;</i><i style=\"font-size: 1.07rem; line-height: 1.5;\">Collect production key-data.&nbsp;</i><i style=\"font-size: 1.07rem; line-height: 1.5;\">Develop a planning tool (Excel VBA).&nbsp;</i><i style=\"font-size: 1.07rem; line-height: 1.5;\">Train the final users.</i></p><p><a href=\"http://www.isafrance.com/en/home.html\" target=\"_blank\">www.isafrance.com</a><a href=\"http://www.lacoste.com/\" target=\"_blank\" style=\"font-size: 1.07rem; background-color: rgb(255, 255, 255); line-height: 1.5;\"></a><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-z",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>INTERNSHIP</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">May 2006 - Aug 2006</span><br></p>",
+          "text2": "<p><b>EMR</b> | <b>La Réunion</b>&nbsp;| <b>France</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Reengineering of the Core-Business Process</span></p><p><i>Redefine physical and information flows. Write job descriptions and procedures, and organize the shared network. Set up inventory and quality management tools. Design a CRM model.</i></p><p><a href=\"http://www.emr-oi.com/\" target=\"_blank\">www.emr-oi.com</a><a href=\"http://www.isafrance.com/en/home.html\" target=\"_blank\" style=\"font-size: 1.07rem; background-color: rgb(255, 255, 255); line-height: 1.5;\"></a><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-10",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "5",
+            "bgColor": "#fff"
+          },
+          "text1": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>INTERNSHIP</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">May 2005 - Aug 2005</span><br></p>",
+          "text2": "<p><b>BOSCH REXROTH</b> | <b>Lyon</b>&nbsp;| <b>France</b></p><p>Stock Accuracy Project</p><p><i>Support new process execution by auditing production lines, creating tailored forms and training staffs to ERP (SAP).</i></p><p><a href=\"https://www.boschrexroth.com/\" target=\"_blank\">www.boschrexroth.com</a><a href=\"http://www.isafrance.com/en/home.html\" target=\"_blank\" style=\"font-size: 1.07rem; background-color: rgb(255, 255, 255); line-height: 1.5;\"></a><br></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-13",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-14",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "SKILLS",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#efefef",
+              "border-color": "#efefef"
+            }
+          },
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false,
+            "iconsBgColor": "#efefef",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "code",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "growing-chart",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "database",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "magic-stick",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title1": "Coding",
+          "subtitle1": "Python &nbsp; &nbsp; R &nbsp; &nbsp; SQL &nbsp; &nbsp; NoSQL<br>Apache Spark &nbsp; &nbsp; JavaScript &nbsp; &nbsp;Git",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Analytics",
+          "subtitle2": "Data Mining &nbsp; &nbsp; Statistics<br>Business Intelligence",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Machine Learning",
+          "subtitle3": "Predictive Modeling &nbsp; &nbsp; Artificial Intelligence<br>Natural Language Processing &nbsp; &nbsp;&nbsp;Deep Learning<br>Neural Networks &nbsp; &nbsp; TensorFlow",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Data Visualization",
+          "subtitle4": "D3.js &nbsp; &nbsp; Tableau &nbsp; &nbsp; Carto",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-2f"
+        },
+        {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#efefef",
+              "border-color": "#efefef"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-18",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false,
+            "iconsBgColor": "#efefef",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "briefcase",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title1": "Business Strategy",
+          "subtitle1": "Digital Transformation<br>Entrepreneurship &nbsp; &nbsp; Marketing",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "rocket",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title2": "Project",
+          "subtitle2": "Agile &nbsp; &nbsp; Lean Six Sigma (Green Belt)<br>Business Process Improvement",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "delivery",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title3": "Operations",
+          "subtitle3": "Supply Chain &nbsp; &nbsp; Logistics<br>Sourcing",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "devices",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title4": "Product",
+          "subtitle4": "Design Thinking &nbsp; &nbsp; Development<br>Lifecycle Management",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#efefef",
+              "border-color": "#efefef"
+            }
+          },
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false,
+            "iconsBgColor": "#efefef",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "flag",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "windows",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "chat",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "help",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title1": "Leadership",
+          "subtitle1": "Teamwork &nbsp; &nbsp; People Management<br>Coaching &nbsp; &nbsp; Communication",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Microsoft Office",
+          "subtitle2": "Advanced Excel &nbsp; &nbsp; VBA<div>PowerPoint &nbsp; &nbsp; Word</div>",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Fluent",
+          "subtitle3": "French &nbsp; &nbsp; English",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Basic",
+          "subtitle4": "Mandarin &nbsp; &nbsp; German &nbsp; &nbsp; Spanish",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-2g"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "5",
+            "bgColor": "#ffffff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://drive.google.com/open?id=1dz-HZq5PjAVc2SQXt1TEFGImQEeccuc3\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD RESUME</a> "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1f",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1g",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "PHOTOGRAPHY",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_styles": {
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "text-align": "center"
+            },
+            "H2": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": "3",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/broadcast-1920x1280.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.1",
+                "overlayColor": "#000000",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "I'M ALSO A SHUTTERBUG",
+                "showText": true,
+                "text": "<a href=\"http://toucherduregard.com\" target=\"_blank\" class=\"text-black\">Toucher du Regard</a> is my photographic journal<br><br><br><br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TOUCHERDUREGARD.COM</a> "
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/tunnel-1920x1280.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.1",
+                "overlayColor": "#000000",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "ANYWHERE",
+                "showText": true,
+                "text": "Inspired by my travels, my exploration of global metropolises, and my taste for art and architecture<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TOUCHERDUREGARD.COM</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/touareg-vii-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.1",
+                "overlayColor": "#000000",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "ANYONE",
+                "showText": true,
+                "text": "I also collaborates with young brands to develop their lookbook, their brand image and personality<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TOUCHERDUREGARD.COM</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/20170404-img-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.1",
+                "overlayColor": "#000000",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "ANYHOW",
+                "showText": true,
+                "text": "I always take a camera with me, even when I go diving on the other side of the planet !<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TOUCHERDUREGARD.COM</a> "
+              }
+            ]
+          },
+          "_anchor": "slider3-1i",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "5",
+            "bgColor": "#ffffff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"http://toucherduregard.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TOUCHERDUREGARD.COM</a> "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1p",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1u",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "CONTACT",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "text-align": "right",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_anchor": "content6-1x",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text1": "<h2>ASHLEY O'MAHONY</h2>",
+          "text2": "<p><span style=\"font-size: 1.07rem;\">DATA SCIENCE | PROJECT | OPERATIONS | PRODUCT</span></p><p>Int'l MBA + MSc in Big Data | IE Business School (Spain)</p><p>MSc in Industrial Engineering | IMT Mines Albi-Carmaux (France)</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "text-align": "right",
+              "font-size": "17px"
+            },
+            "STRONG": {
+              "font-size": "36px",
+              "color": "#000000",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts1-22",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/file-1400x1400.png",
+              "width": 128,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "paper-plane",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": "50",
+              "active": true,
+              "color": "#ffffff",
+              "newWindow": false
+            }
+          },
+          "text1": "",
+          "text2": "",
+          "text3": "<p><span style=\"line-height: 1.5;\">+34 676 24 24 01</span><br></p><p><a href=\"mailto:ashley.omahony@gmail.com\" class=\"text-black\">ashley.omahony@gmail.com</a><br>\nMadrid, Spain</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-24",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1s",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://www.linkedin.com/in/ashleyomahony/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>LINKEDIN</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://github.com/ashomah\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\"></span>GITHUB</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://twitter.com/AshleyOMahony\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span>TWITTER</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://ashleyomahony.com/Ashley_OMahony.vcf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-persona mbr-iconfont mbr-iconfont-btn\"></span>VCARD</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-25",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "form1-1t",
+          "_params": {
+            "showTitle": false,
+            "showSubTitle": false,
+            "labelsColor": "#000000",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CONTACT ME",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "ashley.omahony@gmail.com",
+            "alerts": {
+              "success": "Thanks for your message ! I'll come back to you asap !"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-26",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-27",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-29",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "title": "",
+          "meta": ""
+        }
+      ]
+    }
+  }
+}
