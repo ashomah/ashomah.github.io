@@ -16,15 +16,15 @@
         "subtitleFont": "Lora",
         "textFont": "Raleway",
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": false,
         "isRtl": false
       },
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 90,
-    "versionPublish": "4.6.2",
+    "uniqCompNum": 101,
+    "versionPublish": "4.9.7",
     "favicon": "@PROJECT_PATH@/assets/images/ao2-128x128.png",
     "noImageResize": "",
     "cookiesAlert": "",
@@ -35,7 +35,8 @@
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "siteFonts": []
   },
   "pages": {
     "index.html": {
@@ -134,7 +135,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://ashleyomahony.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ASHLEY O'MAHONY</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-11\">EXPERIENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-12\">EDUCATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-13\">SKILLS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1f\">PHOTOGRAPHY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1p\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://drive.google.com/open?id=1dz-HZq5PjAVc2SQXt1TEFGImQEeccuc3\" target=\"_blank\">DOWNLOAD RESUME</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-11\">EXPERIENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-12\">EDUCATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-13\">SKILLS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-2i\">DATA SCIENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1f\">PHOTOGRAPHY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1p\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://drive.google.com/open?id=1dz-HZq5PjAVc2SQXt1TEFGImQEeccuc3\" target=\"_blank\">DOWNLOAD RESUME</a></li>"
         },
         {
           "_name": "footer1",
@@ -217,7 +218,7 @@
           },
           "title": "ASHLEY O'MAHONY",
           "text": "DATA SCIENCE | PROJECT | OPERATIONS | PRODUCT<br>Int'l MBA + MSc in Big Data | IE Business School (Spain)<br>MSc in Industrial Engineering | IMT Mines Albi-Carmaux (France)<br><br>+34 676 24 24 01<br><a href=\"mailto:ashley.omahony@gmail.com\" class=\"text-black\">ashley.omahony@gmail.com</a><br>Madrid, Spain<br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://www.linkedin.com/in/ashleyomahony/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>LINKEDIN</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"http://github.com/ashomah\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\"></span>GITHUB</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://twitter.com/AshleyOMahony\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span>TWITTER</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"http://ashleyomahony.com/Ashley_OMahony.vcf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-persona mbr-iconfont mbr-iconfont-btn\"></span>VCARD</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://www.linkedin.com/in/ashleyomahony/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>LINKEDIN</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"http://github.com/ashomah\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\"></span>GITHUB</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://twitter.com/AshleyOMahony\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span>TWITTER</a>  <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"http://ashleyomahony.com/Ashley_OMahony.vcf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-persona mbr-iconfont mbr-iconfont-btn\"></span>VCARD</a> "
         },
         {
           "_tags": [
@@ -262,7 +263,7 @@
           },
           "title": "Bonjour, I'm Ashley !",
           "text": "<br><span style=\"font-style: normal;\">I've always played with data.</span><br>Along with enabling teams to streamline their effort by designing and implementing efficient processes and driving transformation across multicultural business units,<br>I have generated various KPIs and insights --- using Excel.<br><span style=\"font-style: normal;\">I now have tremendously extended my skill set!<br></span><br>With innovation, technology, performance and teamwork in my DNA, I have initiated a career shift<br>to leverage on data technologies and create innovative data-led solutions with high impact.<br><br>With proven capacity to lead projects with cross-functional and international stakeholders,<br>I enriched my industrial engineering background with<br>an entrepreneur mindset, a business acumen, and a data science toolkit.<br><br>Insatiable explorer, I love to challenge myself and learn from every encounter.<br>I ambition to contribute to the community towards<br>enhanced lifestyle, social justice, and sustainable environment.<br>",
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://www.linkedin.com/in/ashleyomahony\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>LINKEDIN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://github.com/ashomah\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\"></span>GITHUB</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://twitter.com/AshleyOMahony\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span>TWITTER</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://ashleyomahony.com/Ashley_OMahony.vcf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-persona mbr-iconfont mbr-iconfont-btn\"></span>VCARD</a> "
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://www.linkedin.com/in/ashleyomahony\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>LINKEDIN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://github.com/ashomah\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\"></span>GITHUB</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://twitter.com/AshleyOMahony\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span>TWITTER</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://ashleyomahony.com/Ashley_OMahony.vcf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-persona mbr-iconfont mbr-iconfont-btn\"></span>VCARD</a>   "
         },
         {
           "_styles": {
@@ -441,7 +442,7 @@
             "bgColor": "#fff"
           },
           "text1": "<p><span style=\"font-size: 1.07rem;\"><b>MASTER IN BUSINESS ANALYTICS AND BIG DATA</b></span></p><p><span style=\"font-size: 1.07rem;\">Oct 2018 - Jul 2019</span><br></p>",
-          "text2": "<p><b>IE SCHOOL OF HUMAN SCIENCES &amp; TECHNOLOGY</b>&nbsp;| <b>Madrid</b>&nbsp;| <b>Spain</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">#3 European Master, #10 Worldwide - <a href=\"https://www.topuniversities.com/university-rankings/business-masters-rankings/business-analytics/2018\" target=\"_blank\">QS World Ranking 2018</a></span><br></p><p><a href=\"http://www.ie.edu\" target=\"_blank\">www.ie.edu</a><br></p>",
+          "text2": "<p><b>IE SCHOOL OF HUMAN SCIENCES &amp; TECHNOLOGY</b>&nbsp;| <b>Madrid</b>&nbsp;| <b>Spain</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">#3 European Master, #10 Worldwide - <a href=\"https://www.topuniversities.com/university-rankings/business-masters-rankings/business-analytics/2018\" target=\"_blank\">QS World Ranking 2018</a></span><br></p><p><i>President of IE Technology and Innovation Club</i></p><p><i>President of IE Photography Club</i></p><p><a href=\"http://www.ie.edu\" target=\"_blank\">www.ie.edu</a><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -454,7 +455,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><span style=\"font-size: 1.07rem;\"><b>INTERNATIONAL MBA</b></span></p><p><span style=\"font-size: 1.07rem;\">Jan 2018 - Jul 2019</span><br></p>",
+          "text1": "<p><span style=\"font-size: 1.07rem;\"><b>INTERNATIONAL MBA</b></span></p><p><span style=\"font-size: 1.07rem;\">Jan 2018 - Jul 2018</span><br></p>",
           "text2": "<p><b>IE BUSINESS SCHOOL</b>&nbsp;| <b>Madrid</b>&nbsp;| <b>Spain</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">#3 European Business School, #8 Worldwide - <a href=\"http://rankings.ft.com/businessschoolrankings/ie-business-school\" target=\"_blank\">FT Ranking 2017</a></span><br></p><p><a href=\"http://www.ie.edu\" target=\"_blank\">www.ie.edu</a><br></p>",
           "_tags": [
             "Theme"
@@ -988,6 +989,204 @@
               "text-align": "center"
             }
           },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "title": "",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2i"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "DATA SCIENCE",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2j"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MODERN STYLES",
+          "text": "<p>All my data science projects are showcased on <a href=\"https://datascience.ashleyomahony.com\" target=\"_blank\">datascience.ashleyomahony.com</a>,</p><p>with project repositories being available on my <a href=\"https://github.com/ashomah\" target=\"_blank\">GitHub</a>.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-2r"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#ffffff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://datascience.ashleyomahony.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DATASCIENCE.ASHLEYOMAHONY.COM</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2o"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/2017-08-30-rstudio-dark-theme-600x382.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/untitled-2-600x382.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/untitled-23-600x384.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "R",
+          "subtitle1": "Data Mining and Machine Learning",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Python",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Data Visualization",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-2n"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
           "_tags": [
             "Theme"
           ],
@@ -1015,7 +1214,7 @@
           "_anchor": "header3-1g",
           "_params": {
             "showMeta": false,
-            "paddingTop": 1,
+            "paddingTop": "1",
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
