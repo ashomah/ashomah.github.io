@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 101,
+    "uniqCompNum": 102,
     "versionPublish": "4.9.7",
     "favicon": "@PROJECT_PATH@/assets/images/ao2-128x128.png",
     "noImageResize": "",
@@ -304,6 +304,26 @@
           },
           "title": "EXPERIENCE",
           "meta": ""
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b style=\"font-size: 1.07rem; line-height: 1.5;\">DATA SCIENTIST | BIG DATA ANALYST</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Oct 2019 - Now</span><br></p>",
+          "text2": "<p><b>KEEDIO</b> | <b>Madrid</b> | <b>Spain</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Log Analytics for KloudSense</span><br></p><p><i>Build the Log Anomaly Detection model for KloudSense, the Cloud Native Observability Platform developed by Keedio for monitoring, alerting, analytics and prediction of Big Data clusters state. Currently supporting DC/OS clusters powered by Apache Mesos (by D2IQ). Support of Cloudera clusters in future releases.</i></p><p><i style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"http://www.mothercare.com\" target=\"_blank\">www.keedio.com</a></i><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "content6-2t"
         },
         {
           "_tags": [
