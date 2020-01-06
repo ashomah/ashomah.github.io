@@ -1114,7 +1114,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   line-height: 27px; }
 
 .mbr-slider .carousel-control:hover {
-  background: #1b1b1b;
+  background: none;
   color: #fff;
   opacity: 1; }
 
