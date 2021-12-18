@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 102,
+    "uniqCompNum": 104,
     "versionPublish": "4.9.7",
     "favicon": "@PROJECT_PATH@/assets/images/ao2-128x128.png",
     "noImageResize": "",
@@ -217,7 +217,7 @@
             }
           },
           "title": "ASHLEY O'MAHONY",
-          "text": "DATA SCIENCE | PROJECT | OPERATIONS | PRODUCT<br>Int'l MBA + MSc in Big Data | IE Business School (Spain)<br>MSc in Industrial Engineering | IMT Mines Albi-Carmaux (France)<br><br>+34 676 24 24 01<br><a href=\"mailto:ashley.omahony@gmail.com\" class=\"text-black\">ashley.omahony@gmail.com</a><br>Madrid, Spain<br>",
+          "text": "DATA SCIENCE | PROJECT | OPERATIONS | PRODUCT<br><b>Int'l MBA</b> + <b>MSc in Big Data</b> | IE Business School (Spain)<br><b>MSc in Industrial Engineering</b> | IMT Mines Albi-Carmaux (France)<br><br>+34 676 24 24 01<br><a href=\"mailto:ashley.omahony@gmail.com\" class=\"text-black\">ashley.omahony@gmail.com</a><br>Madrid, Spain<br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://www.linkedin.com/in/ashleyomahony/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>LINKEDIN</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"http://github.com/ashomah\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\"></span>GITHUB</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://twitter.com/AshleyOMahony\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span>TWITTER</a>  <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"http://ashleyomahony.com/Ashley_OMahony.vcf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-persona mbr-iconfont mbr-iconfont-btn\"></span>VCARD</a> "
         },
         {
@@ -262,7 +262,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Bonjour, I'm Ashley !",
-          "text": "<br><span style=\"font-style: normal;\">I've always played with data.</span><br>Along with enabling teams to streamline their effort by designing and implementing efficient processes and driving transformation across multicultural business units,<br>I have generated various KPIs and insights --- using Excel.<br><span style=\"font-style: normal;\">I now have tremendously extended my skill set!<br></span><br>With innovation, technology, performance and teamwork in my DNA, I have initiated a career shift<br>to leverage on data technologies and create innovative data-led solutions with high impact.<br><br>With proven capacity to lead projects with cross-functional and international stakeholders,<br>I enriched my industrial engineering background with<br>an entrepreneur mindset, a business acumen, and a data science toolkit.<br><br>Insatiable explorer, I love to challenge myself and learn from every encounter.<br>I ambition to contribute to the community towards<br>enhanced lifestyle, social justice, and sustainable environment.<br>",
+          "text": "<br><span style=\"font-style: normal;\">I've always played with data.</span><br>Along with enabling teams to streamline their effort by designing and implementing efficient processes and driving transformation across multicultural business units,<br>I have generated various KPIs and insights.<br><br>With innovation, technology, performance and teamwork in my DNA, I have initiated a career shift<br>to leverage on data technologies and create innovative data-led solutions with high impact.<br><br>With proven capacity to lead projects with cross-functional and international stakeholders,<br>I enriched my industrial engineering background with<br>an entrepreneur mindset, a business acumen, and a data science toolkit.<br><br>Insatiable explorer, I love to challenge myself and learn from every encounter.<br>I ambition to contribute to the community towards<br>enhanced lifestyle, social justice, and sustainable environment.<br>",
           "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://www.linkedin.com/in/ashleyomahony\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>LINKEDIN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://github.com/ashomah\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\"></span>GITHUB</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://twitter.com/AshleyOMahony\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span>TWITTER</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://ashleyomahony.com/Ashley_OMahony.vcf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-persona mbr-iconfont mbr-iconfont-btn\"></span>VCARD</a>   "
         },
         {
@@ -311,8 +311,48 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b style=\"font-size: 1.07rem; line-height: 1.5;\">DATA SCIENTIST | BIG DATA ANALYST</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Oct 2019 - Now</span><br></p>",
-          "text2": "<p><b>KEEDIO</b> | <b>Madrid</b> | <b>Spain</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Log Analytics for KloudSense</span><br></p><p><i>Build the Log Anomaly Detection model for KloudSense, the Cloud Native Observability Platform developed by Keedio for monitoring, alerting, analytics and prediction of Big Data clusters state. Currently supporting DC/OS clusters powered by Apache Mesos (by D2IQ). Support of Cloudera clusters in future releases.</i></p><p><i style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"http://www.mothercare.com\" target=\"_blank\">www.keedio.com</a></i><br></p>",
+          "text1": "<p><b style=\"font-size: 1.07rem; line-height: 1.5;\">TEAM LEAD | DATA SCIENTIST</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Jul 2021 - Now</span><br></p>",
+          "text2": "<p><b>BNP PARIBAS</b> | <b>Madrid</b> | <b>Spain</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">RISK Artificial Intelligence Research</span><br></p><p><i>Manage a team of 5 data experts: Data Business Analysts, Data Scientists, Data Engineers.</i></p><p><i>Undertake to close the Gender Pay Gap at RISK France (1,500 employees) by comparing salaries of employees with similar profiles, using a scikit-learn k-Nearest Neighbors regression (kNN), distributing the results through R Markdown reports and a Dash application, and protecting data confidentiality through an encryption strategy.</i></p><p><i>Join the Junior RISK Executive Board to promote and implement new ways of working (Agile, Lean…).</i><br></p><p><i style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"http://www.keedio.com\" target=\"_blank\">group.bnpparibas</a></i><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "content6-2v"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b style=\"font-size: 1.07rem; line-height: 1.5;\">DATA SCIENTIST</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">May 2020 - Jun 2021</span><br></p>",
+          "text2": "<p><b>BNP PARIBAS</b> | <b>Madrid</b> | <b>Spain</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">RISK Artificial Intelligence Research</span><br></p><p><i>Develop a model for predicting incomes of micro-companies by aggregating transactional data (12m transactions, 32k features), using scikit-learn and XGBoost ensemble-based regression algorithms.</i></p><p><i>Develop a Minimum Viable Product (MVP) identifying duplicates in a database compiling information related to French company executives and shareholders (22m records) using recorlinkage, SQLite and Flask.</i></p><p><i>Produce guidelines for Model Risk Management with associated scorecard and documentation template.</i></p><p><i style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"http://www.keedio.com\" target=\"_blank\">group.bnpparibas</a></i><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "content6-2u"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b style=\"font-size: 1.07rem; line-height: 1.5;\">DATA SCIENTIST | BIG DATA ANALYST</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Oct 2019 - Apr 2020</span><br></p>",
+          "text2": "<p><b>KEEDIO</b> | <b>Madrid</b> | <b>Spain</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Log Analytics for KloudSense</span><br></p><p><i>Build the Log Anomaly Detection model for KloudSense, the Cloud Native Observability Platform developed by Keedio for monitoring, alerting, analytics and prediction of Big Data clusters state.</i></p><p><i>Create the data ingestion pipeline with rsyslog and CrateDB, then deploy it on the cluster using Ansible.</i></p><p><i>Apply Natural Language Processing techniques (NLP) with Python and Spark, using Plotly for data visualization.</i></p><p><i style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"http://www.keedio.com\" target=\"_blank\">www.keedio.com</a></i><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -343,7 +383,7 @@
             "bgColor": "#fff"
           },
           "text1": "<p><b style=\"font-size: 1.07rem; line-height: 1.5;\">GLOBAL COMMERCIAL ANALYST</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Feb 2016 - Dec 2017</span><br></p>",
-          "text2": "<p><b>MOTHERCARE</b> | <b>London</b> | <b>UK</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Subject-Matter Expert Sourcing&nbsp;-&nbsp;Oracle Retail Project</span><br></p><p><i>Represent the Sourcing Division in the Oracle Retail implementation project, acting as a liaison between programme design team, business and technical functions.\n</i></p><p><i>Document process design and functionalities requirements, leading in delivery of Quick Wins solutions, ensuring implementation of standardized and consistent ways of working.\n</i></p><p><i style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"http://www.mothercare.com\" target=\"_blank\">www.mothercare.com</a></i><br></p>"
+          "text2": "<p><b>MOTHERCARE</b> | <b>London</b> | <b>UK</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Subject-Matter Expert Sourcing&nbsp;-&nbsp;Oracle Retail Project</span><br></p><p><i>Represent the Sourcing Division in the Oracle Retail implementation project, acting as a cross-functional liaison between operational departments and the programme team, reporting progression, challenges and successes.</i></p><p><i>Challenge ways of working, documenting new process design and functionalities requirements, leading in delivery of Quick Wins solutions, ensuring implementation of consistent and repeatable methods company-wide.</i></p><p><i style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"http://www.mothercare.com\" target=\"_blank\">www.mothercare.com</a></i><br></p>"
         },
         {
           "_tags": [
@@ -357,7 +397,7 @@
             "bgColor": "#fff"
           },
           "text1": "<p><b style=\"font-size: 1.07rem; line-height: 1.5;\">GLOBAL ANALYST</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Sep 2013 - Jan 2016</span><br></p>",
-          "text2": "<p><b>MOTHERCARE</b> | <b>Hong Kong</b>&nbsp;| <b>China</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Business Analysis - Vendor Management</span></p><p><i style=\"font-size: 1.07rem;\">Review and report business KPI to emphasize key business drivers, financial impact of strategic initiatives and competitor information.</i><br></p><p><i style=\"font-size: 1.07rem; line-height: 1.5;\">Work with IT teams on existing systems and databases to improve efficiency and accuracy of reports. Help to define and monitor the supplier strategy for each country and each product category.</i><br></p><p><i><a href=\"http://www.mothercare.com\" target=\"_blank\">www.mothercare.com</a></i></p>"
+          "text2": "<p><b>MOTHERCARE</b> | <b>Hong Kong</b>&nbsp;| <b>China</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Business Analysis - Vendor Management</span></p><p><i style=\"font-size: 1.07rem;\">Analyse and transform business data, monitor and communicate on key metrics across all Sourcing divisions (sales, stocks, quality, profit) to influence and ensure delivery against business plan.</i></p><p><i style=\"font-size: 1.07rem;\">Define business and supplier strategy in conjunction with the Sourcing Heads, for each country and product category, based on quotation data and potential gains.</i></p><p><i style=\"font-size: 1.07rem;\">Supervise outsourced developers and collaborate with IT teams to adjust existing systems and databases to improve processes efficiency, ensure accuracy of reports and provide actionable insights.</i></p><p><i style=\"font-size: 1.07rem;\"><a href=\"http://www.mothercare.com\" target=\"_blank\">www.mothercare.com</a></i><br></p>"
         },
         {
           "_tags": [
@@ -371,7 +411,7 @@
             "bgColor": "#fff"
           },
           "text1": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>TRIMS &amp; FURNITURE MANAGER</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Feb 2012 - Dec 2012</span><br></p>",
-          "text2": "<p><b>DEVANLAY LACOSTE</b> | <b>Hong Kong</b>&nbsp;| <b>China</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Team of 7 people, located in Shanghai</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Trims, Furniture and Point-Of-Sales Materials Purchasing</span></p><p><i style=\"font-size: 1.07rem; line-height: 1.5;\">Secure procurement flows and inventory of the Lacoste’s logos.</i></p><p><i style=\"font-size: 1.07rem; line-height: 1.5;\">Implement a unique labelling service provider for the region.</i></p><p><i style=\"font-size: 1.07rem; line-height: 1.5;\">Extend the suppliers panel and ensure the compliance of furniture and POS sales with Lacoste’s standards.</i></p><p><i style=\"font-size: 1.07rem; line-height: 1.5;\">Develop a Support Service for the Lacoste Asian Production Licensees.</i></p><p><a href=\"http://www.lacoste.com/\" target=\"_blank\">www.lacoste.com</a><i style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"http://www.mothercare.com\" target=\"_blank\"></a></i><br></p>"
+          "text2": "<p><b>DEVANLAY LACOSTE</b> | <b>Hong Kong</b>&nbsp;| <b>China</b></p><p><span style=\"font-size: 1.07rem;\">Trims, Furniture and Point-Of-Sales Materials Purchasing</span><br></p><p><i style=\"font-size: 1.07rem; line-height: 1.5;\">Manage and coach a team of 7 people based in Shanghai, securing procurement flows and inventory of Lacoste logos and trims, mentoring and recruiting new members to put into practice new business activities.</i></p><p><i style=\"font-size: 1.07rem; line-height: 1.5;\">Improve care label supply by defining data standards and setting up a single provider for the APAC region.</i></p><p><i style=\"font-size: 1.07rem; line-height: 1.5;\">Implement sourcing processes of furniture and Point-Of-Sales materials for all shops in APAC region.</i></p><p><i style=\"font-size: 1.07rem; line-height: 1.5;\">Take ownership of the Support Service for the Lacoste Asian Production Licensees, providing technical assistance and procurement service, and focusing on restoring business value and customer satisfaction.</i></p><p><a href=\"http://www.lacoste.com/\" target=\"_blank\" style=\"font-size: 1.07rem; background-color: rgb(255, 255, 255);\">www.lacoste.com</a><br></p>"
         },
         {
           "_tags": [
@@ -385,7 +425,7 @@
             "bgColor": "#fff"
           },
           "text1": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>BUSINESS ANALYST</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Feb 2011 - Jan 2012</span><br></p>",
-          "text2": "<p><b>DEVANLAY LACOSTE</b> | <b>Hong Kong</b>&nbsp;| <b>China</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Reporting - Supply Chain&nbsp;Planning -&nbsp;Project Management</span></p><p><i>Reengineer the delivery KPI and dashboards. Conduct Sales and Operations Planning (S&amp;OP) meetings.</i></p><p><i>Lead the Labels Standardization Project for Asia area, complying with legal and distribution constraints.</i></p><p><i>Deploy an ordering web interface to 40 Asian suppliers.</i></p><p><a href=\"http://www.lacoste.com/\" target=\"_blank\" style=\"font-size: 1.07rem; background-color: rgb(255, 255, 255); line-height: 1.5;\">www.lacoste.com</a><br></p>"
+          "text2": "<p><b>DEVANLAY LACOSTE</b> | <b>Hong Kong</b>&nbsp;| <b>China</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Reporting - Supply Chain&nbsp;Planning -&nbsp;Project Management</span></p><p><i style=\"font-size: 1.07rem;\">Direct the Asian platform reporting to senior executives (C-level), identifying relevant data, defining the most critical KPIs, designing dashboards, highlighting deviations and prescribing corrective actions.</i></p><p><i style=\"font-size: 1.07rem;\">Conduct Sales and Operations Planning meetings (S&amp;OP), controlling alignment of commercial, production and supply chain plans, continuously improving the method in concert with the Supply Chain Director and local teams.</i></p><p><i>Lead the care labels standardization for APAC, complying with legal and distribution constraints, and deploying an ordering web interface to 40 Asian suppliers.</i></p><p><a href=\"http://www.lacoste.com/\" target=\"_blank\" style=\"font-size: 1.07rem; background-color: rgb(255, 255, 255); line-height: 1.5;\">www.lacoste.com</a><br></p>"
         },
         {
           "_tags": [
@@ -399,7 +439,7 @@
             "bgColor": "#fff"
           },
           "text1": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>SUPPLY CHAIN ENGINEER</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Oct 2009 - Jan 2011</span><br></p>",
-          "text2": "<p><b>DEVANLAY LACOSTE</b> | <b>Shanghai</b>&nbsp;| <b>China</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Organisation Processes Audits - Suppliers Management</span></p><p><i>Perform selective audits and improve procedures efficiency and performance in supply chain, logistics, supplier management and quality.</i></p><p><i>Implement the supplier qualification process and design a tool evaluating the suppliers’ performance.</i></p><p><i>Regularize suppliers’ contracts, and social and environmental compliance certificates.</i></p><p><a href=\"http://www.lacoste.com/\" target=\"_blank\" style=\"font-size: 1.07rem; background-color: rgb(255, 255, 255); line-height: 1.5;\">www.lacoste.com</a><br></p>"
+          "text2": "<p><b>DEVANLAY LACOSTE</b> | <b>Shanghai</b>&nbsp;| <b>China</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Organisation Processes Audits - Suppliers Management</span></p><p><i>Perform selective audits in several areas including supply chain, logistics, supplier management and quality, and propose solutions and tools to improve procedures efficiency and performance.</i></p><p><i>Standardize supplier relationship management processes by building a performance evaluation tool in Excel VBA, and regularizing contracts terms and conditions and social compliance certificates.</i></p><p><a href=\"http://www.lacoste.com/\" target=\"_blank\" style=\"font-size: 1.07rem; background-color: rgb(255, 255, 255); line-height: 1.5;\">www.lacoste.com</a><br></p>"
         },
         {
           "_tags": [
@@ -412,8 +452,8 @@
             "paddingBottom": "5",
             "bgColor": "#fff"
           },
-          "text1": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>PROJECT ENGINEER</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Oct 2007 - May 2009</span><br></p>",
-          "text2": "<p><b>LGM</b> | <b>Paris</b>&nbsp;| <b>France</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"http://www.lgmgroup.fr\" target=\"_blank\">www.lgmgroup.fr</a></span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">SNCF - Simulation of Logistics Flows in Maintenance Centres</span></p><p><i>Audit in 26 centres all over France.</i></p><p><i>Model and simulate new organizations scenario in ExtendSim to define an optimal solution.</i></p><p><a href=\"http://www.sncf.com\" target=\"_blank\">www.sncf.com</a><i></i></p><p>Renault Trucks Défense - Project Management Support</p><p><i>Develop and install project management tools (cost control, planning, technical issues follow-up).</i></p><p><i>Assist the project managers by monitoring the action plans and coordinating the prototype parts stock.</i></p><p><a href=\"http://www.renault-trucks-defense.eu\" target=\"_blank\">www.renault-trucks-defense.eu</a><a href=\"www.renault-trucks-defense.eu\" target=\"_blank\"></a></p>"
+          "text1": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>SUPPLY CHAIN AND PROJECT MANAGEMENT ENGINEER</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Oct 2007 - May 2009</span><br></p>",
+          "text2": "<p><b>LGM GROUP</b> | <b>Paris</b>&nbsp;| <b>France</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"http://www.lgmgroup.fr\" target=\"_blank\">www.lgmgroup.fr</a></span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">SNCF - Simulation of Logistics Flows in Maintenance Centres</span></p><p><i>Optimize logistics flows in 26 French train maintenance centres by collecting data, building data analytics tools (Excel VBA), modelling new scenarios in ExtendSim, and training client teams.</i></p><p><a href=\"http://www.sncf.com\" target=\"_blank\" style=\"font-size: 1.07rem; background-color: rgb(255, 255, 255);\">www.sncf.com</a><br></p><p><i></i></p><p>Renault Trucks Défense - Project Management Support</p><p><i>Support project managers of Engineering and Design Department by developing project management tools (Excel), watching costs (€3.5m budget), planning, resources, and action plans (Microsoft Project), coordinating prototype parts stock and communicating about risks and opportunities.</i></p><p><a href=\"http://www.renault-trucks-defense.eu\" target=\"_blank\" style=\"font-size: 1.07rem; background-color: rgb(255, 255, 255);\">www.renault-trucks-defense.eu</a><br></p><p><a href=\"www.renault-trucks-defense.eu\" target=\"_blank\"></a></p>"
         },
         {
           "_styles": {
@@ -1406,7 +1446,7 @@
             "bgColor": "#fff"
           },
           "text1": "<h2>ASHLEY O'MAHONY</h2>",
-          "text2": "<p><span style=\"font-size: 1.07rem;\">DATA SCIENCE | PROJECT | OPERATIONS | PRODUCT</span></p><p>Int'l MBA + MSc in Big Data | IE Business School (Spain)</p><p>MSc in Industrial Engineering | IMT Mines Albi-Carmaux (France)</p>"
+          "text2": "<p><span style=\"font-size: 1.07rem;\">DATA SCIENCE | PROJECT | OPERATIONS | PRODUCT</span></p><p><b>Int'l MBA</b> + <b>MSc in Big Data</b> | IE Business School (Spain)</p><p><b>MSc in Industrial Engineering</b> | IMT Mines Albi-Carmaux (France)</p>"
         },
         {
           "_tags": [
