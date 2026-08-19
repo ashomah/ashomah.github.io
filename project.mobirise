@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 104,
+    "uniqCompNum": 106,
     "versionPublish": "4.9.7",
     "favicon": "@PROJECT_PATH@/assets/images/ao2-128x128.png",
     "noImageResize": "",
@@ -43,7 +43,7 @@
       "settings": {
         "main": true,
         "title": "Ashley O'Mahony | Professional Experience",
-        "meta_descr": "Ashley O'Mahony | Data Science | Project | Operations | Product\nInt'l MBA | MSc in Big Data | MSc in Industrial Engineering\n\nHis professional experience, his educational background, his passion for photography, and his contact details.\n\nDownload his full resume I ashleyomahony.com",
+        "meta_descr": "Ashley O'Mahony | Data Science & AI Leader | Monopoly GO @ Scopely\nStrategy, Org Building & Player Intelligence | Engineering → Supply Chain → Banking → Gaming → Data & AI\nInt'l MBA | MSc in Big Data | MSc in Industrial Engineering\n\nHis professional experience, his educational background, his passion for photography, and his contact details.\n\nDownload his full resume I ashleyomahony.com",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -217,7 +217,7 @@
             }
           },
           "title": "ASHLEY O'MAHONY",
-          "text": "DATA SCIENCE | PROJECT | OPERATIONS | PRODUCT<br><b>Int'l MBA</b> + <b>MSc in Big Data</b> | IE Business School (Spain)<br><b>MSc in Industrial Engineering</b> | IMT Mines Albi-Carmaux (France)<br><br>+34 676 24 24 01<br><a href=\"mailto:ashley.omahony@gmail.com\" class=\"text-black\">ashley.omahony@gmail.com</a><br>Madrid, Spain<br>",
+          "text": "DATA SCIENCE &amp; AI LEADER | MONOPOLY GO @ SCOPELY<br>Strategy, Org Building &amp; Player Intelligence<br><i>Engineering → Supply Chain → Banking → Gaming → Data &amp; AI</i><br><br><b>Int'l MBA</b> + <b>MSc in Big Data</b> | IE Business School (Spain)<br><b>MSc in Industrial Engineering</b> | IMT Mines Albi-Carmaux (France)<br><br>+34 676 24 24 01<br><a href=\"mailto:ashley.omahony@gmail.com\" class=\"text-black\">ashley.omahony@gmail.com</a><br>Barcelona, Spain<br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://www.linkedin.com/in/ashleyomahony/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>LINKEDIN</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"http://github.com/ashomah\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\"></span>GITHUB</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://twitter.com/AshleyOMahony\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span>TWITTER</a>  <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"http://ashleyomahony.com/Ashley_OMahony.vcf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-persona mbr-iconfont mbr-iconfont-btn\"></span>VCARD</a> "
         },
         {
@@ -262,7 +262,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Bonjour, I'm Ashley !",
-          "text": "<br><span style=\"font-style: normal;\">I've always played with data.</span><br>Along with enabling teams to streamline their effort by designing and implementing efficient processes and driving transformation across multicultural business units,<br>I have generated various KPIs and insights.<br><br>With innovation, technology, performance and teamwork in my DNA, I have initiated a career shift<br>to leverage on data technologies and create innovative data-led solutions with high impact.<br><br>With proven capacity to lead projects with cross-functional and international stakeholders,<br>I enriched my industrial engineering background with<br>an entrepreneur mindset, a business acumen, and a data science toolkit.<br><br>Insatiable explorer, I love to challenge myself and learn from every encounter.<br>I ambition to contribute to the community towards<br>enhanced lifestyle, social justice, and sustainable environment.<br>",
+          "text": "<br>I lead the data science team behind Monopoly GO — one of the highest-grossing mobile games ever made. Before that: industrial engineer, supply chain manager in Shanghai, retail analyst in Hong Kong and London, data scientist in a French bank. The through-line is that I like problems nobody has defined yet.<br><br>At Scopely, I've spent four years building a data science function as much as running one. Matchmaking and game-economy simulation are now capabilities the whole game leans on, and a research agenda I set for the wider Data &amp; Insights organisation became two of its live programmes. Lately I've been building AI tooling as an internal product — for my own team, and for teams outside it.<br><br>I've worked with people in France, the UK, China, Hong Kong, India, Bangladesh, Japan, South Korea, Thailand and the US, and I've learned more from that than from any course. I've built on an industrial engineering background with an MBA, a data science toolkit, and a stubborn entrepreneurial streak.<br><br>I also care what the work is for. I co-founded GoodShifter, an app that rates groceries across 21 health, environmental and social criteria and suggests better alternatives available in your own supermarket — built because I wanted something I'd actually use.<br><br>Most interested in problems that aren't defined yet, and in organisations where scope is earned rather than assigned. Always happy to talk.<br><br>French citizen — authorised to work across the EU/EEA without sponsorship. Spanish tax resident, available to non-EU employers via Deel/EOR.<br>",
           "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://www.linkedin.com/in/ashleyomahony\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span>LINKEDIN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://github.com/ashomah\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\"></span>GITHUB</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://twitter.com/AshleyOMahony\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span>TWITTER</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://ashleyomahony.com/Ashley_OMahony.vcf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-persona mbr-iconfont mbr-iconfont-btn\"></span>VCARD</a>   "
         },
         {
@@ -311,7 +311,47 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b style=\"font-size: 1.07rem; line-height: 1.5;\">TEAM LEAD | DATA SCIENTIST</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Jul 2021 - Now</span><br></p>",
+          "text1": "<p><b style=\"font-size: 1.07rem; line-height: 1.5;\">DATA SCIENCE MANAGER</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Sep 2024 - Now</span><br></p>",
+          "text2": "<p><b>MONOPOLY GO!</b> | <b>SCOPELY</b>&nbsp;| <b>Barcelona</b> | <b>Spain</b></p><p><span style=\"font-size: 17.12px;\">I lead the data science team behind one of the highest-grossing mobile games ever&nbsp;</span><span style=\"font-size: 17.12px;\">made. Matchmaking and game-economy simulation are now capabilities the whole game&nbsp;</span><span style=\"font-size: 17.12px;\">leans on, and a research agenda I set for the wider data organisation became two of&nbsp;</span><span style=\"font-size: 17.12px;\">its live programmes. Lately I've been building AI tooling as an internal product —&nbsp;</span><span style=\"font-size: 17.12px;\">for my own team, and for teams outside it.</span></p><p><i style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"https://www.monopolygo.com/\" target=\"_blank\">monopolygo.com</a></i><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "content6-2w"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b style=\"font-size: 1.07rem; line-height: 1.5;\">LEAD DATA SCIENTIST</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Apr 2022 - Aug 2024</span><br></p>",
+          "text2": "<p><b>PLAYGAMI</b>&nbsp;|&nbsp;<b>SCOPELY</b> | <b>Barcelona</b>&nbsp;| <b>Spain</b></p><p><span style=\"font-size: 17.12px;\">Central ML platform serving Scopely's game portfolio. I co-led the function after&nbsp;</span><span style=\"font-size: 17.12px;\">the Director left and wasn't replaced, and spent most of my time on a problem that&nbsp;</span><span style=\"font-size: 17.12px;\">wasn't in the job description: a platform team was building products without knowing&nbsp;</span><span style=\"font-size: 17.12px;\">what the games needed. Fixing that produced most of what we shipped — matchmaking,&nbsp;</span><span style=\"font-size: 17.12px;\">churn intercept, the cost work that paid for itself.</span></p><p><i style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"https://www.scopely.com\" target=\"_blank\">scopely.com</a></i><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "content6-2x"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b style=\"font-size: 1.07rem; line-height: 1.5;\">TEAM LEAD | DATA SCIENTIST</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Jul 2021 - Apr 2022</span><br></p>",
           "text2": "<p><b>BNP PARIBAS</b> | <b>Madrid</b> | <b>Spain</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">RISK Artificial Intelligence Research</span><br></p><p><i>Manage a team of 5 data experts: Data Business Analysts, Data Scientists, Data Engineers.</i></p><p><i>Undertake to close the Gender Pay Gap at RISK France (1,500 employees) by comparing salaries of employees with similar profiles, using a scikit-learn k-Nearest Neighbors regression (kNN), distributing the results through R Markdown reports and a Dash application, and protecting data confidentiality through an encryption strategy.</i></p><p><i>Join the Junior RISK Executive Board to promote and implement new ways of working (Agile, Lean…).</i><br></p><p><i style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"http://www.keedio.com\" target=\"_blank\">group.bnpparibas</a></i><br></p>",
           "_tags": [
             "Theme"
@@ -1010,7 +1050,7 @@
           "subtitle3": "French &nbsp; &nbsp; English",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Basic",
-          "subtitle4": "Mandarin &nbsp; &nbsp; German &nbsp; &nbsp; Spanish",
+          "subtitle4": "Spanish &nbsp; &nbsp; Mandarin &nbsp; &nbsp; German",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
@@ -1446,7 +1486,7 @@
             "bgColor": "#fff"
           },
           "text1": "<h2>ASHLEY O'MAHONY</h2>",
-          "text2": "<p><span style=\"font-size: 1.07rem;\">DATA SCIENCE | PROJECT | OPERATIONS | PRODUCT</span></p><p><b>Int'l MBA</b> + <b>MSc in Big Data</b> | IE Business School (Spain)</p><p><b>MSc in Industrial Engineering</b> | IMT Mines Albi-Carmaux (France)</p>"
+          "text2": "<p><span style=\"font-size: 1.07rem;\">DATA SCIENCE &amp; AI LEADER | MONOPOLY GO @ SCOPELY</span></p><p><span style=\"font-size: 1.07rem;\">Strategy, Org Building &amp; Player Intelligence</span></p><p><span style=\"font-size: 1.07rem;\"><i>Engineering → Supply Chain → Banking → Gaming → Data &amp; AI</i></span></p><p><span style=\"font-size: 1.07rem;\"><i><br></i></span></p><p><b>Int'l MBA</b> + <b>MSc in Big Data</b> | IE Business School (Spain)</p><p><b>MSc in Industrial Engineering</b> | IMT Mines Albi-Carmaux (France)</p><p><br></p>"
         },
         {
           "_tags": [
@@ -1501,7 +1541,7 @@
           },
           "text1": "",
           "text2": "",
-          "text3": "<p><span style=\"line-height: 1.5;\">+34 676 24 24 01</span><br></p><p><a href=\"mailto:ashley.omahony@gmail.com\" class=\"text-black\">ashley.omahony@gmail.com</a><br>\nMadrid, Spain</p>"
+          "text3": "<p><span style=\"line-height: 1.5;\">+34 676 24 24 01</span><br></p><p><a href=\"mailto:ashley.omahony@gmail.com\" class=\"text-black\">ashley.omahony@gmail.com</a><br>\nBarcelona, Spain</p>"
         },
         {
           "_styles": {

@@ -58,13 +58,13 @@
 .btn-lg {
   padding: 0.75rem 2.1874rem;
   font-size: 0.9687rem;
-  line-height: 1.33333;
+  line-height: 1.3333333333;
   border-radius: 3px; }
 
 .btn-xlg {
   padding: 0.75rem 2.1874rem;
   font-size: 1.1875rem;
-  line-height: 1.33333;
+  line-height: 1.3333333333;
   border-radius: 3px; }
 
 .btn-primary {
@@ -971,7 +971,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   transition: .2s background ease-in-out; }
 
 .mbr-gallery .mbr-gallery-item > a:hover .mbr-gallery-title {
-  background: transparent !important; }
+  background: rgba(0, 0, 0, 0) !important; }
 
 /* remove spacing */
 .mbr-gallery .mbr-gallery-row.no-gutter {
@@ -1077,9 +1077,9 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   line-height: 70px;
   border-radius: 50%;
   color: inherit;
-  background: none; 
+  background: #1b1b1b;
   border: 0;
-  opacity: 0.8;
+  opacity: 0.5;
   text-shadow: none;
   z-index: 5;
   color: #fff;
@@ -1114,7 +1114,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   line-height: 27px; }
 
 .mbr-slider .carousel-control:hover {
-  background: none;
+  background: #1b1b1b;
   color: #fff;
   opacity: 1; }
 
