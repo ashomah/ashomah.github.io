@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 106,
+    "uniqCompNum": 107,
     "versionPublish": "4.9.7",
     "favicon": "@PROJECT_PATH@/assets/images/ao2-128x128.png",
     "noImageResize": "",
@@ -312,7 +312,7 @@
             "bgColor": "#fff"
           },
           "text1": "<p><b style=\"font-size: 1.07rem; line-height: 1.5;\">DATA SCIENCE MANAGER</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Sep 2024 - Now</span><br></p>",
-          "text2": "<p><b>MONOPOLY GO!</b> | <b>SCOPELY</b>&nbsp;| <b>Barcelona</b> | <b>Spain</b></p><p><span style=\"font-size: 17.12px;\">I lead the data science team behind one of the highest-grossing mobile games ever&nbsp;</span><span style=\"font-size: 17.12px;\">made. Matchmaking and game-economy simulation are now capabilities other teams rely&nbsp;</span><span style=\"font-size: 17.12px;\">on, and Players Profiler — a segmentation framework I proposed, got funded and now&nbsp;</span><span style=\"font-size: 17.12px;\">lead — is one of the bigger things on our 2026 roadmap. I also like planting ideas&nbsp;</span><span style=\"font-size: 17.12px;\">in teams I don't run: a social-dynamics initiative running elsewhere started as a&nbsp;</span><span style=\"font-size: 17.12px;\">case I kept making until the Leads there took it on. Lately I've been building AI&nbsp;</span><span style=\"font-size: 17.12px;\">tooling as an internal product.</span></p><p><i style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"https://www.monopolygo.com/\" target=\"_blank\">monopolygo.com</a></i><br></p>",
+          "text2": "<p><b>MONOPOLY GO!</b> | <b>SCOPELY</b>&nbsp;| <b>Barcelona</b> | <b>Spain</b></p><p><i><span style=\"font-size: 17.12px;\">I lead the data science team behind one of the highest-grossing mobile games ever&nbsp;</span><span style=\"font-size: 17.12px;\">made. Matchmaking and game-economy simulation are now capabilities other teams rely&nbsp;</span><span style=\"font-size: 17.12px;\">on, and Players Profiler — a segmentation framework I proposed, got funded and now&nbsp;</span><span style=\"font-size: 17.12px;\">lead — is one of the bigger things on our 2026 roadmap. I also like planting ideas&nbsp;</span><span style=\"font-size: 17.12px;\">in teams I don't run: a social-dynamics initiative running elsewhere started as a&nbsp;</span><span style=\"font-size: 17.12px;\">case I kept making until the Leads there took it on. Lately I've been building AI&nbsp;</span><span style=\"font-size: 17.12px;\">tooling as an internal product.</span></i></p><p><i style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"https://www.monopolygo.com/\" target=\"_blank\">monopolygo.com</a></i><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -332,7 +332,7 @@
             "bgColor": "#fff"
           },
           "text1": "<p><b style=\"font-size: 1.07rem; line-height: 1.5;\">LEAD DATA SCIENTIST</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Apr 2022 - Aug 2024</span><br></p>",
-          "text2": "<p><b>PLAYGAMI</b>&nbsp;|&nbsp;<b>SCOPELY</b> | <b>Barcelona</b>&nbsp;| <b>Spain</b></p><p><span style=\"font-size: 17.12px;\">Central ML platform serving Scopely's game portfolio. I co-led the function after&nbsp;</span><span style=\"font-size: 17.12px;\">the Director left and wasn't replaced, and spent most of my time on a problem that&nbsp;</span><span style=\"font-size: 17.12px;\">wasn't in the job description: a platform team was building products without knowing&nbsp;</span><span style=\"font-size: 17.12px;\">what the games needed. Fixing that produced most of what we shipped — matchmaking,&nbsp;</span><span style=\"font-size: 17.12px;\">churn intercept, the cost work that paid for itself.</span></p><p><i style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"https://www.scopely.com\" target=\"_blank\">scopely.com</a></i><br></p>",
+          "text2": "<p><b>PLAYGAMI</b>&nbsp;|&nbsp;<b>SCOPELY</b> | <b>Barcelona</b>&nbsp;| <b>Spain</b></p><p><i><span style=\"font-size: 17.12px;\">Central ML platform serving Scopely's game portfolio. I co-led the function after&nbsp;</span><span style=\"font-size: 17.12px;\">the Director left and wasn't replaced, and spent most of my time on a problem that&nbsp;</span><span style=\"font-size: 17.12px;\">wasn't in the job description: a platform team was building products without knowing&nbsp;</span><span style=\"font-size: 17.12px;\">what the games needed. Fixing that produced most of what we shipped — matchmaking,&nbsp;</span><span style=\"font-size: 17.12px;\">churn intercept, the cost work that paid for itself.</span></i></p><p><i style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"https://www.scopely.com\" target=\"_blank\">scopely.com</a></i><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -344,6 +344,26 @@
             }
           },
           "_anchor": "content6-2x"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><span style=\"font-size: 1.07rem;\"><b>CO-FOUNDER</b></span></p><p><span style=\"font-size: 1.07rem;\">Jan 2023 - Now</span><br></p>",
+          "text2": "<p><b>GOODSHIFTER</b> | <b>Barcelona</b> | <b>Spain</b></p><p><i style=\"line-height: 1.5;\">An app that rates groceries across 21 health, environmental and social criteria and&nbsp;</i><i style=\"line-height: 1.5;\">shows you better alternatives that are actually stocked in your supermarket. I own&nbsp;</i><i style=\"line-height: 1.5;\">the product — vision, user journey, UX/UI, workflows — and direct the external team&nbsp;</i><i style=\"line-height: 1.5;\">that builds it. Live on both app stores.</i></p><p><i style=\"line-height: 1.5;\">I built it because I wanted to use it.</i></p><p><i style=\"line-height: 1.5;\"><span style=\"font-size: 1.07rem;\"><a href=\"https://goodshifter.com\" target=\"_blank\">g</a></span><a href=\"https://goodshifter.com\" target=\"_blank\">oodshifter.com</a></i><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "content6-2y"
         },
         {
           "_params": {
